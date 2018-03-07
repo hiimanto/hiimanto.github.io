@@ -22,6 +22,10 @@ body,html {
     border-radius: 5px;
 }
 
+.text-center .skill{
+  font-size: 36px;
+}
+
 .text-center h3{
     font-style: oblique;
 }
