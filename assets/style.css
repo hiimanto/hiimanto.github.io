@@ -14,7 +14,7 @@ nav a{
 }
 
 .jumbotron{
-     background-image: url(../image/workspace.jpg);
+    background-image: url(../image/workspace.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -32,7 +32,7 @@ nav a{
 
 .text-center h1{
     margin: 20px;
-    margin-top: 15%;
+    margin-top: 5%;
 }
 
 img.about{
