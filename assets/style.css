@@ -13,13 +13,13 @@ nav a{
     font-size: 16px;
 }
 
-/* .jumbotron{
+.jumbotron{
      background-image: url(../image/workspace.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     height: 100%;
-} */
+}
 
 .jumbotron a{
     padding: 16px 52px;
